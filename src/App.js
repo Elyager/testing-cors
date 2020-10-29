@@ -51,7 +51,7 @@ function App() {
       </p>
       <br />
       <h2>The date according to Go is:</h2>
-      <p>{date ? date : 'Loading data...'}</p>
+      <p>{data ? data : 'Loading data...'}</p>
     </main>
   )
 }
